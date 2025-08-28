@@ -9,7 +9,7 @@ html, body {
 
 .app {
   margin: 10vh;
-  transform: scale(2.5);
+  transform: scale(2);
   transform-origin: center;
 }
 .search-bar {
